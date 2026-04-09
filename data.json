@@ -2,6 +2,15 @@
   "account": "shopee",
   "account_name": "Achados Shopee",
   "theme_color": "#EE4D2D",
-  "updated_at": "2026-04-08T21:48:59.096796",
-  "products": []
+  "updated_at": "2026-04-08T21:49:00.946795",
+  "products": [
+    {
+      "num": 0,
+      "name": "CALÇA FEMININA ALFAIATARIA ZARA CINTURA ALTA",
+      "price": "R$39,78",
+      "affiliate_url": "https://s.shopee.com.br/10ypzXj4kK",
+      "image_url": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m6evx62ti3ao10@resize_w450_nl.webp",
+      "published_at": "2026-04-08 21:48:53"
+    }
+  ]
 }
